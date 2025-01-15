@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+  }
+  
+  section {
+    padding: 50px 0;
+  }
+  
+  footer {
+    background-color: #212529;
+  }
+  
