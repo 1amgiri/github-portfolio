@@ -1,5 +1,5 @@
 import React from 'react';
-import { projects } from '../data/data';
+import { projects } from '../src/data';
 
 const Projects = () => (
   <section className="container my-5">
